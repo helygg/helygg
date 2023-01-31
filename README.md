@@ -1,10 +1,9 @@
-# 💁‍♀️Hey, I'm Helygg
+# 💁‍♀️Hey, I'm Helen
 
-- 👋 Hi, I’m @helygg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m Helen
+- I’m interested in web development
+- I’m currently learning JavaScript, html, css and others
+- How to reach me e-mail: helen.cristinasf@gmail.com
 
 <!---
 helygg/helygg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
