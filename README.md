@@ -1,10 +1,9 @@
 # 💁‍♀️Hey, I'm Helen
-
-- Hi, I’m Helen
-- I'm in college of computer science
-- I’m interested in web development
-- I’m currently learning JavaScript, html, css and others
-- How to reach me e-mail: helen.cristinasf@gmail.com
+- Aprendendo inglês e alemão 
+- Acadêmica em ciência da computação pelo IFCE
+- Experimentando várias áreas da tecnologia!
+- Atualmente aprendendo JavaScript
+- E-mail: helen.cristinasf@gmail.com
 
 <!---
 helygg/helygg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
