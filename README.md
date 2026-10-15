@@ -1,7 +1,6 @@
 # 💁‍♀️Hey, I'm Helen
 - Aprendendo inglês e alemão 
 - Acadêmica em ciência da computação pelo IFCE
-- Experimentando várias áreas da tecnologia!
 - Atualmente aprendendo JavaScript
 - E-mail: helen.cristinasf@gmail.com
 
